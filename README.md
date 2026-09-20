@@ -2,7 +2,7 @@
 
 ### Electronics Engineer | Aspiring Software Developer/Engineer
 
-I'm an Electronics Engineering graduate from the **National Institute of Engineering, Mysuru**, currently working as an **Engineer (Projects)** in Bengaluru.
+I'm an Electronics Engineering graduate from the **National Institute of Engineering, Mysuru**, currently working as an **Project Engineer** in Bengaluru.
 
 I'm building my skills toward **software development**, with a focus on programming, backend development, AI-powered applications, and problem solving.
 
