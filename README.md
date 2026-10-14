@@ -1,77 +1,64 @@
+
 # Hi, I'm Meghana P 👋
 
-### Electronics Engineer | Aspiring Software Developer/Engineer
+Electronics and Communication Engineering graduate working as an Engineer (Projects) and building my skills in software development.
 
-I'm an Electronics Engineering graduate from the **National Institute of Engineering, Mysuru**, currently working as an **Project Engineer** in Bengaluru.
-
-I'm building my skills toward **software development**, with a focus on programming, backend development, AI-powered applications, and problem solving.
-
-## 🛠️ Technical Skills
-
-### Programming
-
-* C++
-* Python
-* JavaScript
-* SQL
-
-### Web & Software
-
-* HTML
-* CSS
-* React
-* REST APIs
-* MySQL
-* Git & GitHub
-
-### Electronics & HDVL
-
-* Verilog
-* Digital Logic
-* VLSI Fundamentals
-* Cadence Virtuoso
-* LTspice
+I'm interested in entry-level software engineering opportunities and enjoy learning through hands-on projects, problem-solving, and continuous improvement.
 
 ## 🚀 Projects
 
-### 🤖 AI Code Explainer
+### 1. Heart Disease Prediction
+A machine learning classification project that compares multiple models to predict heart disease from patient data.
 
-An AI-powered application that explains code, identifies errors, and helps users understand programming concepts.
+- Compared Logistic Regression, KNN, Decision Tree, Random Forest, and SVM.
+- Evaluated models using cross-validation, test accuracy, and a confusion matrix.
+- **Tech:** Python, Pandas, NumPy, scikit-learn
 
-**Tech:** Python, FastAPI, React, OpenAI API
+🔗 [View Repository](https://github.com/Meghana-p-git/heart-disease-prediction)
 
-### 🏥 Hospital Management System
+### 2. LoRa-Integrated Buoy for Water Quality Monitoring
+An IoT-based project for collecting and transmitting water-quality measurements using sensors and LoRa communication.
 
-A role-based hospital management application with patient, doctor, and administrative functionality.
+- Integrated pH, TDS, temperature, turbidity, and pressure sensors.
+- Used ESP8266 and LoRa SX1278 for sensor-data communication.
+- Used ThingSpeak for cloud-based monitoring.
+- **Tech:** Arduino, ESP8266, LoRa, ThingSpeak
 
-**Tech:** C++, React, MySQL
+🔗 [View Repository](https://github.com/Meghana-p-git/lora-integrated-buoy-system)
 
-### 🌊 LoRa Integrated Buoy for Water Quality Monitoring
+### 3. C++ DSA Practice
+A collection of C++ programming exercises covering fundamental concepts, data structures, and algorithms.
 
-A long-range water-quality monitoring system using sensors, ESP8266, LoRa communication, and cloud monitoring.
+- Practising problem-solving and algorithmic thinking.
+- Organizing solutions by topic for revision and continuous learning.
+- **Tech:** C++
 
-**Tech:** C++, ESP8266, LoRa, ThingSpeak
+🔗 [View Repository](https://github.com/Meghana-p-git/cpp-dsa-practice)
 
-### 💄 E-Commerce Web Application
+### 4. AI Resume Reviewer — In Progress 🚧
+Currently learning Flask and developing a web application as a hands-on project to strengthen my Python and web development skills.
 
-A full-stack e-commerce application developed during my software development internship.
+- Learning Flask routes and HTTP request handling.
+- Building server-rendered pages using Jinja templates.
+- **Planned direction:** Resume input, processing, and actionable feedback as development progresses.
 
-**Tech:** Java, JSP, Servlets, Spring Boot, MySQL, HTML, CSS, JavaScript
+**Tech:** Python, Flask, Jinja, HTML/CSS
 
-## 📚 Currently Learning
+## 🛠️ Technical Skills
 
-* Python backend development
-* FastAPI
-* REST API development
-* AI/LLM API integration
-* Data Structures & Algorithms
-* Git & GitHub
+- **Programming:** C++, Python, JavaScript, SQL
+- **Web Development:** HTML, CSS, React.js, Flask, Jinja
+- **Machine Learning:** Pandas, NumPy, scikit-learn, Matplotlib
+- **Tools:** Git, GitHub, VS Code, Linux/WSL
+- **Core Concepts:** Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Computer Networks
 
-## 🎯 Goal
+## 🎓 Education
 
-To build practical software projects that solve real-world problems and continuously grow as a software developer.
+**Bachelor of Engineering — Electronics and Communication Engineering**  
+National Institute of Engineering (NIE), Mysuru  
+CGPA: 8.56/10 | 2025
 
-## 🔗 Connect With Me
+## 📫 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/meghana-p-737336311/)
-* [GitHub](https://github.com/Meghana-p-git)
+- [LinkedIn](https://www.linkedin.com/in/meghana-p-737336311/)
+- [GitHub](https://github.com/Meghana-p-git)
