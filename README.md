@@ -35,14 +35,26 @@ A collection of C++ programming exercises covering fundamental concepts, data st
 
 🔗 [View Repository](https://github.com/Meghana-p-git/cpp-dsa-practice)
 
+
 ### 4. AI Resume Reviewer — In Progress 🚧
-Currently learning Flask and developing a web application as a hands-on project to strengthen my Python and web development skills.
 
-- Learning Flask routes and HTTP request handling.
-- Building server-rendered pages using Jinja templates.
-- **Planned direction:** Resume input, processing, and actionable feedback as development progresses.
+A web application I'm developing to help job seekers review their resumes and identify areas for improvement. The goal is to provide actionable feedback on resume content, skills, and alignment with job requirements.
 
-**Tech:** Python, Flask, Jinja, HTML/CSS
+#### Development Progress
+- Building the application using Python and Flask with server-rendered HTML templates.
+- Implemented dynamic page rendering, conditional content, and reusable template layouts using Jinja.
+- Currently learning HTTP request handling, form submissions, and JSON processing as part of backend development.
+
+#### Planned Features
+- Resume input and text extraction.
+- Resume content analysis with actionable improvement suggestions.
+- Comparison of resume skills with a target job description.
+- A simple interface to present review results.
+
+#### Tech Stack
+`Python` · `Flask` · `Jinja` · `HTML` · `CSS` · `JavaScript` *(as implemented)*
+
+**Status:** 🚧 Actively developing and learning backend web development through hands-on implementation.
 
 ## 🛠️ Technical Skills
 
